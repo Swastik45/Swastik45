@@ -1,53 +1,38 @@
-## 🌌 Swastik45 | Systems Auditor & Developer
+## 🛠 Swastik45 | Developer & Systems Auditor
 
-Hello\! I'm a developer and technical freelancer based in Nepal, currently navigating the intersection of **Computer Applications** and **Cybersecurity**. I approach code with the mindset of a Systems Auditor—prioritizing clean execution, logical integrity, and verified data.
-
-When I'm not grinding for clients or building technical infrastructure, you’ll find me analyzing the philosophical depth of a Tarkovsky film or exploring the complex psychological landscapes of Dostoevsky and manga like *Berserk*.
+I am a developer and technical freelancer currently pursuing a **Bachelor of Computer Applications (BCA)** at Pokhara University. I specialize in building functional technical infrastructure with a focus on logical integrity and clean execution.
 
 -----
 
-### 🛠 Technical Toolkit
+### 💻 Technical Skills
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C, JavaScript, Programming Logic |
-| **Web Infrastructure** | React, Node.js, OpenStreetMap API |
-| **Specialized** | NDVI Logic, OSINT Methodologies, Coordinate Systems |
-| **Academic Focus** | Digital Logic (Number Systems), Computer Fundamentals |
-| **DevOps & Versioning** | Git, GitHub, Linux Systems |
+  * **Programming**: Python, C, JavaScript, Java, C++
+  * **Web Development**: React, Node.js, HTML5, CSS3
+  * **Data & Geospatial**: NDVI Logic, OpenStreetMap Integration, Coordinate Systems
+  * **Specializations**: OSINT Methodologies, Digital Logic, Systems Auditing
+  * **Tools**: Git, Docker, Kubernetes, MySQL, MongoDB
 
 -----
 
 ### 🏗 Featured Projects
 
-#### **NDVI Geospatial Mapper**
+**NDVI Geospatial Mapper**
+A web-based platform incorporating NDVI logic and OpenStreetMap integration. Developed the engineering foundation to process coordinate inputs and visualize environmental data.
 
-A web-based engineering project that integrates **OpenStreetMap** with **NDVI (Normalized Difference Vegetation Index)** logic. It allows users to input specific coordinates to analyze environmental data through a custom-built technical foundation.
+**OSINT & Security Infrastructure**
+Building technical frameworks from scratch focused on Open Source Intelligence and location tracking methodologies.
 
-#### **Systems & OSINT Research**
-
-A collection of scripts and documentation focused on **Open Source Intelligence** and location tracking methodologies, built from scratch to ensure privacy and data accuracy.
-
-#### **Academic Logic Archive**
-
-Comprehensive implementations and problem-solving sets for **Digital Logic** and **Programming Logic**, reflecting a deep dive into the foundational architecture of computation.
+**Logic & Computation Archive**
+A repository of implementations covering Programming Logic and Digital Logic (Number Systems), reflecting my core academic and technical foundation.
 
 -----
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 -----
 
-### 📽 Beyond the Screen
+### 📬 Connectivity
 
-  * **Cinema:** Enthusiast of "art-house" and philosophical works (*2001: A Space Odyssey*, *The Mirror*, *Nayak*).
-  * **Literature:** Engaged with psychological realism (*The Brothers Karamazov*, *Oyasumi Punpun*).
-  * **Philosophy:** Valuing the "rule of law" and data-driven logic in both social and technical systems.
-
------
-
-### 📧 Get In Touch
-
-  * **Freelance/Collab:** Reach out via [LinkedIn](https://www.linkedin.com/in/swastik45)
-  * **Location:** Lalitpur, Nepal 🇳🇵
-  * **Status:** "The grind is constant, the execution must be clean."
+  * **LinkedIn**: [Profile Link](https://www.linkedin.com/in/swastik45)
+  * **GitHub**: [Swastik45](https://www.google.com/search?q=https://github.com/Swastik45)
+  * **Location**: Nepal 🇳🇵
