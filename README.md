@@ -33,6 +33,6 @@ A repository of implementations covering Programming Logic and Digital Logic (Nu
 
 ### 📬 Connectivity
 
-  * **LinkedIn**: [Profile Link](https://www.linkedin.com/in/swastik45)
-  * **GitHub**: [Swastik45](https://www.google.com/search?q=https://github.com/Swastik45)
+  * **LinkedIn**: [Profile Link](https://np.linkedin.com/in/swastik-paudel-876925273)
+  * **GitHub**: [Swastik45](https://github.com/Swastik45)
   * **Location**: Nepal 🇳🇵
