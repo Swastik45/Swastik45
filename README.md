@@ -1,12 +1,12 @@
-## 🛠 Swastik45 | Developer & Systems Auditor
+## 🛠 Swastik Paudel | Developer & Systems Auditor
 
-I am a developer and technical freelancer currently pursuing a **Bachelor of Computer Applications (BCA)** at Pokhara University. I specialize in building functional technical infrastructure with a focus on logical integrity and clean execution.
+I am a developer and technical freelancer currently pursuing a **Bachelor of Computer Applications (BCA)** at Pokhara University. I focus on building functional technical infrastructure and web solutions with a priority on logical integrity and clean execution.
 
 -----
 
 ### 💻 Technical Skills
 
-  * **Programming**: Python, C, JavaScript, Java, C++
+  * **Programming**: Python, C, JavaScript, TypeScript, PHP, Java, C++
   * **Web Development**: React, Node.js, HTML5, CSS3
   * **Data & Geospatial**: NDVI Logic, OpenStreetMap Integration, Coordinate Systems
   * **Specializations**: OSINT Methodologies, Digital Logic, Systems Auditing
@@ -16,23 +16,30 @@ I am a developer and technical freelancer currently pursuing a **Bachelor of Com
 
 ### 🏗 Featured Projects
 
-**NDVI Geospatial Mapper**
-A web-based platform incorporating NDVI logic and OpenStreetMap integration. Developed the engineering foundation to process coordinate inputs and visualize environmental data.
+**CarbonCredit** A JavaScript-based project focused on environmental data tracking and carbon credit systems.
 
-**OSINT & Security Infrastructure**
-Building technical frameworks from scratch focused on Open Source Intelligence and location tracking methodologies.
+**Youtube-Legacy-Hardware-Alternate** A PHP-driven solution designed to simplify the YouTube experience for older televisions and legacy devices that cannot handle modern, resource-heavy features.
 
-**Logic & Computation Archive**
-A repository of implementations covering Programming Logic and Digital Logic (Number Systems), reflecting my core academic and technical foundation.
+**Lumino & Bill\_Prediction** Advanced TypeScript applications focusing on data visualization and predictive modeling for utility or service billing.
+
+**NDVI Geospatial Mapper** A platform incorporating NDVI logic and OpenStreetMap integration to process coordinate inputs and visualize environmental data.
+
+**Frontend Election Candidates** A specialized portal for exploring candidate information, contributing to transparent data accessibility during local elections.
 
 -----
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
+**Contribution Insights:**
+
+  * **Total Contributions**: 171+ in the last year.
+  * **Commit Quality**: Maintains a **99% Commits vs. 1% Issues** ratio, showcasing a focus on direct execution.
+  * **Active Repositories**: Recent high activity in **CarbonCredit**, **Portfolio**, and **ContentCreatingSite**.
 
 -----
 
 ### 📬 Connectivity
 
-  * **LinkedIn**: [Profile Link](https://np.linkedin.com/in/swastik-paudel-876925273)
-  * **GitHub**: [Swastik45](https://github.com/Swastik45)
+  * **LinkedIn**: [Profile Link](https://www.linkedin.com/in/swastik45)
+  * **GitHub**: [Swastik45](https://www.google.com/search?q=https://github.com/Swastik45)
   * **Location**: Nepal 🇳🇵
