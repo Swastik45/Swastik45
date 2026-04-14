@@ -1,45 +1,38 @@
-## 🛠 Swastik Paudel | Developer & Systems Auditor
+## 🛠 Swastik Paudel | Systems Auditor & Developer
 
-I am a developer and technical freelancer currently pursuing a **Bachelor of Computer Applications (BCA)** at Pokhara University. I focus on building functional technical infrastructure and web solutions with a priority on logical integrity and clean execution.
+BCA Student at Pokhara University. I build high-performance technical infrastructure with a focus on logical integrity, systems auditing, and OSINT methodologies.
 
 -----
 
-### 💻 Technical Skills
+### 💻 Technical Stack
 
-  * **Programming**: Python, C, JavaScript, TypeScript, PHP, Java, C++
-  * **Web Development**: React, Node.js, HTML5, CSS3
-  * **Data & Geospatial**: NDVI Logic, OpenStreetMap Integration, Coordinate Systems
-  * **Specializations**: OSINT Methodologies, Digital Logic, Systems Auditing
-  * **Tools**: Git, Docker, Kubernetes, MySQL, MongoDB
+  * **Languages:** TypeScript, JavaScript, Python, C#, C, PHP, SQL
+  * **Frameworks:** Next.js (App Router), React, Node.js, Tailwind CSS
+  * **Specializations:** OSINT, NDVI Geospatial Analysis, Systems Auditing, Predictive Modeling
+  * **Tools:** Git, Docker, MySQL, Groq/Llama 3.1 Integration
 
 -----
 
 ### 🏗 Featured Projects
 
-**CarbonCredit** A JavaScript-based project focused on environmental data tracking and carbon credit systems.
-
-**Youtube-Legacy-Hardware-Alternate** A PHP-driven solution designed to simplify the YouTube experience for older televisions and legacy devices that cannot handle modern, resource-heavy features.
-
-**Lumino & Bill\_Prediction** Advanced TypeScript applications focusing on data visualization and predictive modeling for utility or service billing.
-
-**NDVI Geospatial Mapper** A platform incorporating NDVI logic and OpenStreetMap integration to process coordinate inputs and visualize environmental data.
-
-**Frontend Election Candidates** A specialized portal for exploring candidate information, contributing to transparent data accessibility during local elections.
+  * **Share Auditor NP**: High-performance portfolio risk engine for analyzing MeroShare transaction histories.
+  * **GovAudit NP**: Accountability engine utilizing OSINT data gathering and AI-driven analysis.
+  * **CarbonCredit**: Environmental marketplace integrating NDVI satellite analysis for carbon verification.
+  * **Bill Prediction**: Utility forecasting tool utilizing TypeScript for predictive household expense modeling.
+  * **YouTube Legacy Alternate**: Lightweight PHP solution for streaming on hardware with limited resources.
 
 -----
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Metrics
 
-**Contribution Insights:**
-
-  * **Total Contributions**: 171+ in the last year.
-  * **Commit Quality**: Maintains a **99% Commits vs. 1% Issues** ratio, showcasing a focus on direct execution.
-  * **Active Repositories**: Recent high activity in **CarbonCredit**, **Portfolio**, and **ContentCreatingSite**.
+  * **Focus**: Systems Architecture & Data Integrity
+  * **Velocity**: 220+ Contributions this year
+  * **Execution**: 99% Commit-to-Issue ratio
 
 -----
 
 ### 📬 Connectivity
 
-  * **LinkedIn**: [Profile Link](https://www.linkedin.com/in/swastik45)
+  * **LinkedIn**: [swastik45](https://www.linkedin.com/in/swastik45)
   * **GitHub**: [Swastik45](https://www.google.com/search?q=https://github.com/Swastik45)
   * **Location**: Nepal 🇳🇵
