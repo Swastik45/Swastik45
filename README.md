@@ -33,6 +33,6 @@ BCA Student at Pokhara University. I build high-performance technical infrastruc
 
 ### 📬 Connectivity
 
-  * **LinkedIn**: [swastik45](https://www.linkedin.com/in/swastik45)
-  * **GitHub**: [Swastik45](https://www.google.com/search?q=https://github.com/Swastik45)
+  * **LinkedIn**: [swastik](https://np.linkedin.com/in/swastik-paudel-876925273)
+  * **GitHub**: [Swastik45](https://github.com/Swastik45)
   * **Location**: Nepal 🇳🇵
