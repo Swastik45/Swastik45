@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00b4d8&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <br/>
 
 ## 💫 About Me
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Swastik45&repo=GovAudit-NP&theme=tokyonight&show_owner=true" width="350" alt="Featured Project" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Langs" />
   
   I am a <b>Systems Auditor</b> and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
   <br/><br/>
@@ -45,7 +45,6 @@
 ### 📊 System Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="165" alt="Langs" />
 </div>
 
 ---
