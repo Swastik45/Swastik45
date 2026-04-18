@@ -1,83 +1,72 @@
+
+
+
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/images/banner.gif" width="100%" />
+
+<br/><br/>
+
+<img src="https://avatars.githubusercontent.com/u/149481053?v=4" width="90" style="border-radius:6px" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=SWASTIK+PAUDEL;Systems+Auditor+%2F+Full-Stack+Dev;OSINT+%7C+Algorithmic+Accountability" alt="Typing SVG" />
+
+<br/>
+
+![](https://img.shields.io/badge/SYSTEMS-AUDITOR-1D9E75?style=flat-square&labelColor=0d1117&logo=kali-linux&logoColor=1D9E75)
+![](https://img.shields.io/badge/FULL--STACK-DEVELOPER-378ADD?style=flat-square&labelColor=0d1117&logo=next.js&logoColor=378ADD)
+![](https://img.shields.io/badge/BCA-STUDENT-888780?style=flat-square&labelColor=0d1117)
+
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="90" align="center" valign="top">
-<br/>
-<img src="https://avatars.githubusercontent.com/u/149481053?v=4" width="72" style="border-radius: 4px;" /><br/>
-<sub><sup>SYS.USR</sup></sub>
-</td>
-<td valign="top">
-<br/>
+```
+// profile :: github.com/Swastik45
+// focus   :: OSINT · Algorithmic Accountability
+// stack   :: Next.js · React · TypeScript · Python · Docker
+// mode    :: logical output via verified data
+```
 
-**SWASTIK PAUDEL**
-
-![Systems Auditor](https://img.shields.io/badge/Systems-Auditor-1D9E75?style=flat-square&labelColor=0d1117)
-![Full-Stack Dev](https://img.shields.io/badge/Full--Stack-Developer-378ADD?style=flat-square&labelColor=0d1117)
-![BCA Student](https://img.shields.io/badge/BCA-Student-888780?style=flat-square&labelColor=0d1117)
-
-`@ Swastik45` &nbsp; `# OSINT` &nbsp; `~ Kathmandu`
-</td>
-</tr>
-</table>
+Engineering high-performance infrastructure with a focus on **logical integrity** and **systems auditing**. I prioritize technical ownership and custom solutions over templates.
 
 ---
 
-<sup>ABOUT</sup>
+<div align="center">
 
-Engineering high-performance infrastructure with a focus on **logical integrity** and **systems auditing**.
-I prioritize technical ownership and custom solutions over templates.
-Current trajectory: OSINT methodologies & algorithmic accountability.
-
-<table width="100%">
-<tr>
-<td width="50%">
-<sup>CURRENT FOCUS</sup><br/>
-OSINT · Algorithmic Accountability
-</td>
-<td width="50%">
-<sup>APPROACH</sup><br/>
-Logical output via verified data
-</td>
-</tr>
-</table>
-
----
-
-<sup>STACK</sup>
+### `[ STACK ]`
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,docker,tailwind,linux,mysql,git&theme=dark" />
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git)
+</div>
 
 ---
 
-<sup>METRICS</sup>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117&text_color=c9d1d9&icon_color=00b4d8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&bg_color=0d1117&text_color=c9d1d9" width="46%" />
+### `[ METRICS ]`
+
+<img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=1D9E75&bg_color=0d1117&text_color=c9d1d9&icon_color=1D9E75" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true&title_color=1D9E75&bg_color=0d1117&text_color=c9d1d9" width="46%" />
+
+</div>
 
 ---
 
-<sup>INFRASTRUCTURE</sup>
+### `[ INFRASTRUCTURE ]`
 
 | Project | Description | Domain | Status |
 | :--- | :--- | :--- | :---: |
-| **Share Auditor NP** | Portfolio risk engine for MeroShare analysis | `risk / fin` | ![PROD](https://img.shields.io/badge/PROD-1D9E75?style=flat-square) |
-| **GovAudit NP** | Accountability engine via OSINT & AI | `osint / ai` | ![DEV](https://img.shields.io/badge/DEV-378ADD?style=flat-square) |
+| **Share Auditor NP** | Portfolio risk engine for MeroShare analysis | `risk / fin` | ![](https://img.shields.io/badge/PROD-1D9E75?style=flat-square&labelColor=0d1117) |
+| **GovAudit NP** | Accountability engine via OSINT & AI | `osint / ai` | ![](https://img.shields.io/badge/DEV-378ADD?style=flat-square&labelColor=0d1117) |
 
 ---
 
-<sub>audit.sessions://Swastik45 &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=Swastik45&color=00b4d8&style=flat-square&label=AUDIT+SESSIONS" style="vertical-align: middle;" /></sub>
+<div align="center">
+<sub><code>audit.sessions://Swastik45</code></sub><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Swastik45&color=1D9E75&style=flat-square&label=SESSIONS" />
+</div>
+
+
