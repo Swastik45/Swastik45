@@ -1,38 +1,60 @@
-## 🛠 Swastik Paudel | Systems Auditor & Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-BCA Student at Pokhara University. I build high-performance technical infrastructure with a focus on logical integrity, systems auditing, and OSINT methodologies.
+## 💫 About Me
+<p align="left">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIw/giphy.gif" width="180" />
+  I am a <b>Systems Auditor</b> and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
+  <br/><br/>
+  My workflow is driven by an auditing mindset—whether I'm building financial risk engines or OSINT-based accountability tools, I focus on <b>technical ownership</b> and high-performance logic.
+  <br/><br/>
+  🔹 <b>Disciplined:</b> Focused on maintainability and modular architecture.<br/>
+  🔹 <b>Security-Centric:</b> Applying OSINT and auditing methodologies to every build.
+</p>
 
------
+---
 
-### 💻 Technical Stack
+### 🛠️ Technical Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,cs,c,php,mysql,docker,tailwind,git&theme=dark" />
+</p>
 
-  * **Languages:** TypeScript, JavaScript, Python, C#, C, PHP, SQL
-  * **Frameworks:** Next.js (App Router), React, Node.js, Tailwind CSS
-  * **Specializations:** OSINT, NDVI Geospatial Analysis, Systems Auditing, Predictive Modeling
-  * **Tools:** Git, Docker, MySQL, Groq/Llama 3.1 Integration
+---
 
------
+### 🏗️ Featured Infrastructure
 
-### 🏗 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📊 Share Auditor NP</h4>
+      <p>High-performance portfolio risk engine designed to audit MeroShare transaction histories and analyze growth concentration.</p>
+    </td>
+    <td width="50%">
+      <h4>🏛️ GovAudit NP</h4>
+      <p>An autonomous accountability engine utilizing OSINT data gathering and AI-driven analysis to verify government reform agendas.</p>
+    </td>
+  </tr>
+</table>
 
-  * **Share Auditor NP**: High-performance portfolio risk engine for analyzing MeroShare transaction histories.
-  * **GovAudit NP**: Accountability engine utilizing OSINT data gathering and AI-driven analysis.
-  * **CarbonCredit**: Environmental marketplace integrating NDVI satellite analysis for carbon verification.
-  * **Bill Prediction**: Utility forecasting tool utilizing TypeScript for predictive household expense modeling.
-  * **YouTube Legacy Alternate**: Lightweight PHP solution for streaming on hardware with limited resources.
+---
 
------
+### 📊 System Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik-paudel&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-paudel&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
+</div>
 
-### 📊 GitHub Metrics
+---
 
-  * **Focus**: Systems Architecture & Data Integrity
-  * **Velocity**: 245+ Contributions this year
-  * **Execution**: 99% Commit-to-Issue ratio
+### 🎬 Philosophical Interests
+<p align="center">
+  <i>"Cinema is a mosaic made of time."</i> <br/><br/>
+  <code>Tarkovsky</code> • <code>Kubrick</code> • <code>Satyajit Ray</code> • <code>Guru Dutt</code>
+</p>
 
------
-
-### 📬 Connectivity
-
-  * **LinkedIn**: [swastik](https://np.linkedin.com/in/swastik-paudel-876925273)
-  * **GitHub**: [Swastik45](https://github.com/Swastik45)
-  * **Location**: Nepal 🇳🇵
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxvfJCCXvS8/giphy.gif" width="100%" height="1px" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=swastik-paudel&color=3382ed&style=flat-square&label=AUDIT+SESSIONS" />
+</div>
