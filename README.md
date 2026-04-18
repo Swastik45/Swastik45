@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIw/giphy.gif" width="180" />
+  <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/ironman.gif" width="180" />
   I am a <b>Systems Auditor</b> and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
   <br/><br/>
   My workflow is driven by an auditing mindset—whether I'm building financial risk engines or OSINT-based accountability tools, I focus on <b>technical ownership</b> and high-performance logic.
@@ -41,20 +41,18 @@
 
 ### 📊 System Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swastik-paudel&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-paudel&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
 </div>
 
 ---
 
-### 🎬 Philosophical Interests
+### 🔭 Research & Focus
 <p align="center">
-  <i>"Cinema is a mosaic made of time."</i> <br/><br/>
-  <code>Tarkovsky</code> • <code>Kubrick</code> • <code>Satyajit Ray</code> • <code>Guru Dutt</code>
+  <code>Predictive Modeling</code> • <code>Geospatial Analysis (NDVI)</code> • <code>Algorithmic Accountability</code> • <code>Digital Forensics</code>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxvfJCCXvS8/giphy.gif" width="100%" height="1px" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=swastik-paudel&color=3382ed&style=flat-square&label=AUDIT+SESSIONS" />
+  <img src="https://komarev.com/ghpvc/?username=Swastik45&color=3382ed&style=flat-square&label=AUDIT+SESSIONS" />
 </div>
