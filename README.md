@@ -1,26 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn" width="100%" />
+  <h1>⚡ Swastik Paudel ⚡</h1>
+  <p><b>Systems Auditor | Full-Stack Developer | BCA Student</b></p>
+  <img src="https://img.shields.io/badge/Status-Auditing_Systems-00b4d8?style=for-the-badge" />
 </div>
 
 <br/>
 
 ## 💫 About Me
-<p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-  
-  I am a <b>Systems Auditor</b> and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
-  <br/><br/>
-  My workflow is driven by an auditing mindset—whether I'm building financial risk engines or OSINT-based accountability tools, I focus on <b>technical ownership</b> and high-performance logic.
-  <br/><br/>
-  🔹 <b>Disciplined:</b> Focused on maintainability and modular architecture.<br/>
-  🔹 <b>Security-Centric:</b> Applying OSINT and auditing methodologies to every build.
-</p>
+I am a **Systems Auditor** and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
+
+My workflow is driven by an auditing mindset—whether I'm building financial risk engines or OSINT-based accountability tools, I focus on **technical ownership** and high-performance logic.
+
+* 🔹 **Disciplined:** Focused on maintainability and modular architecture.
+* 🔹 **Security-Centric:** Applying OSINT and auditing methodologies.
 
 ---
 
 ### 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,cs,docker,tailwind,git,linux,mysql,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,cs,docker,tailwind,git,linux,mysql,php&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -33,11 +31,12 @@
 
 ### 📊 System Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swastik45&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swastik45&theme=tokyonight" width="45%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swastik45&color=3382ed&style=flat-square&label=AUDIT+SESSIONS" />
+  <img src="https://komarev.com/ghpvc/?username=Swastik45&color=00b4d8&style=flat-square&label=AUDIT+SESSIONS" />
 </div>
