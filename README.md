@@ -1,11 +1,13 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00b4d8&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=3382ed&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn" width="100%" />
 </div>
+
+<br/>
 
 ## 💫 About Me
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidGZ3Ymt6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34mR8S88oY7fSSTAL/giphy.gif" width="200" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Swastik45&repo=GovAudit-NP&theme=tokyonight&show_owner=true" width="350" />
+  
   I am a <b>Systems Auditor</b> and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
   <br/><br/>
   My workflow is driven by an auditing mindset—whether I'm building financial risk engines or OSINT-based accountability tools, I focus on <b>technical ownership</b> and high-performance logic.
@@ -18,7 +20,7 @@
 
 ### 🛠️ Technical Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,cs,c,php,mysql,docker,tailwind,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,py,cs,docker,tailwind,git,linux,mysql,php&theme=dark" />
 </p>
 
 ---
@@ -42,18 +44,12 @@
 
 ### 📊 System Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swastik45&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik45&layout=compact&theme=tokyonight&hide_border=true&title_color=3382ed" height="160" />
 </div>
 
 ---
 
-### 🔭 Research & Focus
-<p align="center">
-  <code>Predictive Modeling</code> • <code>Geospatial Analysis (NDVI)</code> • <code>Algorithmic Accountability</code> • <code>Digital Forensics</code>
-</p>
-
 <div align="center">
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=Swastik45&color=3382ed&style=flat-square&label=AUDIT+SESSIONS" />
 </div>
