@@ -1,10 +1,11 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00b4d8&height=200&section=header&text=Swastik%20Paudel&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 ## 💫 About Me
 <p align="left">
-  <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/ironman.gif" width="180" />
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidGZ3Ymt6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueXJ6eXF2ZTVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34mR8S88oY7fSSTAL/giphy.gif" width="200" />
   I am a <b>Systems Auditor</b> and Developer currently pursuing my BCA at Pokhara University. I specialize in engineering technical infrastructure that prioritizes logical integrity and verified data. 
   <br/><br/>
   My workflow is driven by an auditing mindset—whether I'm building financial risk engines or OSINT-based accountability tools, I focus on <b>technical ownership</b> and high-performance logic.
