@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="avatar.svg" width="280" alt="Swastik Paudel — Cyberpunk Avatar" />
+<img src="https://github.com/Swastik45/Swastik45/blob/main/cyberpunk_hacker_avatar.svg" width="280" alt="Swastik Paudel — Cyberpunk Avatar" />
 
 # `SWASTIK PAUDEL`
 
