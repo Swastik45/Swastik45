@@ -49,14 +49,5 @@ Engineering high-performance infrastructure with a focus on **logical integrity*
 
 ---
 
-### 0x04 | Active Audits
-| Repository | Purpose | Logic Status |
-| :--- | :--- | :--- |
-| **Share Auditor NP** | Portfolio risk engine for MeroShare analysis | `DEPLOYED` |
-| **GovAudit NP** | Accountability engine via OSINT & AI | `IN_DEV` |
-
----
-
-<div align="right">
   <img src="https://komarev.com/ghpvc/?username=Swastik45&color=1D9E75&style=flat-square&label=TRAFFIC_LOG" />
 </div>
