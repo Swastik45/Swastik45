@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/149481053?v=4" width="120" style="border-radius: 50%;" alt="Swastik Paudel" />
   <h1>SWASTIK PAUDEL</h1>
@@ -19,9 +21,9 @@
 ---
 
 ### 👋 About Me
-Developer and technical freelancer with an **auditor's mindset**. I build high-performance systems focused on logical integrity, data accuracy, and algorithmic accountability. Specialized in creating custom, verified solutions for financial auditing, governance tracking, and OSINT tools.
+I’m a developer and technical freelancer with an **auditor’s mindset** — blending engineering precision with data integrity. My work focuses on building **verified, high-performance systems** that emphasize logical consistency, transparency, and algorithmic accountability.
 
-Currently pursuing BCA at Pokhara University and actively working on Nepal-centric projects in portfolio risk analysis and government reform monitoring.
+Currently pursuing a **Bachelor in Computer Applications (BCA)** at Pokhara University, I’m actively developing **Nepal-centric solutions** in portfolio risk analysis, government transparency, and OSINT-driven auditing.
 
 ---
 
@@ -31,9 +33,9 @@ Currently pursuing BCA at Pokhara University and actively working on Nepal-centr
 Next.js • React • TypeScript • Tailwind CSS
 
 **Backend & Data**  
-Python • Node.js • Firebase/Supabase • MongoDB • MySQL
+Python • Node.js • Firebase / Supabase • MongoDB • MySQL
 
-**Tools & Others**  
+**Tools & Utilities**  
 Docker • Linux • Git • Cheerio (scraping) • jsPDF • Linear Regression (ML)
 
 **Special Focus**  
@@ -42,36 +44,43 @@ OSINT • Self-healing scrapers • Risk concentration engines • LLM-assisted 
 ---
 
 ### 📊 GitHub Highlights
-- **272 contributions** in the last year (heavily active in April 2026)
-- Primary languages: **TypeScript** and **JavaScript**
-- Focus areas: Financial auditing (ShareAudit), Government accountability (GovaAuditNP), OSINT tools (Ghost-Track)
+- **272 contributions** in the past year (most active in April 2026)  
+- Primary languages: **TypeScript** & **JavaScript**  
+- Focus areas: Financial auditing (**ShareAudit**), Government accountability (**GovaAuditNP**), and OSINT tools (**Ghost-Track**)
 
 ---
 
 ### 🚀 Featured Projects
 
-**ShareAudit**  
-High-performance NEPSE portfolio auditor. Analyzes MeroShare data for risk concentration, CGT tax forecasting, and sector exposure. Built with Next.js 16, TypeScript, and Tremor.
+#### **ShareAudit**
+A high-performance NEPSE portfolio auditor that analyzes MeroShare data for **risk concentration**, **CGT tax forecasting**, and **sector exposure**.  
+Built with **Next.js 16**, **TypeScript**, and **Tremor**.
 
-**GovaAuditNP**  
-Autonomous government reform tracker using OSINT + Google Gemini 1.5 Pro for verification. Provides real-time dashboards and PDF reports.
+#### **GovaAuditNP**
+An autonomous government reform tracker combining **OSINT** and **Google Gemini 1.5 Pro** for verified insights.  
+Generates real-time dashboards and PDF reports for policy monitoring.
 
-**Ghost-Track**  
-High-performance digital footprint auditor written in C with multi-threading and libcurl.
+#### **Ghost-Track**
+A digital footprint auditor written in **C**, leveraging **multi-threading** and **libcurl** for high-speed OSINT operations.
 
-**Other Projects**: CarbonCredit (verified carbon tracking), Bill_Prediction (ML-based utility forecasting), ContentCreatingSite (community platform).
+**Other Projects:**  
+CarbonCredit (verified carbon tracking) • Bill_Prediction (ML-based utility forecasting) • ContentCreatingSite (community platform)
 
-All projects emphasize production-ready architecture, self-healing logic, and real-world applicability in the Nepali context.
+All projects emphasize **production-grade architecture**, **self-healing logic**, and **real-world applicability** within the Nepali context.
 
 ---
 
 ### 📬 Get In Touch
-- **Email**: psamarpaudel@gmail.com
-- **Portfolio**: [swastik45.github.io/Portfolio](https://swastik45.github.io/Portfolio/)
-- Open to freelance systems auditing, full-stack collaborations, and interesting projects.
+- **Email:** psamarpaudel@gmail.com  
+- **Portfolio:** [swastik45.github.io/Portfolio](https://swastik45.github.io/Portfolio/)  
+- Open to freelance systems auditing, full-stack collaborations, and innovative data-driven projects.
 
-Always happy to connect with fellow builders and auditors.
+Let’s build systems that **verify before they trust**.
 
 ---
 
 *Last updated: April 2026*
+
+---
+
+Would you like me to make it more **visually dynamic** (e.g., add icons, section dividers, or GitHub stats cards) so it stands out more on your profile page?
