@@ -11,7 +11,7 @@
 ```
 
 <div align="center">
-  <img src="avatar.svg" width="340" alt="Swastik Paudel — Cyberpunk Avatar" />
+  <img src="https://github.com/Swastik45/Swastik45/blob/main/cyberpunk_hacker_avatar.svg" width="340" alt="Swastik Paudel — Cyberpunk Avatar" />
 </div>
 
 # `SWASTIK PAUDEL`
