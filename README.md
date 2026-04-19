@@ -10,7 +10,9 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://avatars.githubusercontent.com/u/149481053?v=4" width="120" style="border-radius:50%;border:2px solid #ff2d2d;" />
+<div align="center">
+  <img src="avatar.svg" width="340" alt="Swastik Paudel — Cyberpunk Avatar" />
+</div>
 
 # `SWASTIK PAUDEL`
 
