@@ -20,14 +20,6 @@
 
 </div>
 
-
-ACTIVITY LOG ───────────────────────────────────────────────────
-  ◈ 300+ contributions in the last 12 months
-  ◈ Primary Languages : TypeScript · JavaScript · Python · C · Rust  · C#
-  ◈ Architecture Focus: Auditing Systems · OSINT · Verification . AI Integration 
-────────────────────────────────────────────────────────────────
-```
-
 ---
 
 ## `░░ CONTACT.INIT`
