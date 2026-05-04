@@ -14,106 +14,11 @@
 
 # `SWASTIK PAUDEL`
 
-**`[ BCA @ Pokhara University ]`**  
-**`[ Systems Auditor × Full-Stack Engineer × OSINT Specialist ]`**
-
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=ff2d2d)](https://swastik45.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/◈_EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=ff2d2d)](mailto:psamarpaudel@gmail.com)
 [![GitHub](https://img.shields.io/badge/◈_GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff2d2d)](https://github.com/swastik45)
 
 </div>
-
----
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-     ENGINEER  ///  AUDITOR  ///  OSINT OPERATOR  ///  BUILDER
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
----
-
-## `░░ ABOUT.SYS`
-
-```yaml
-identity:
-  name     : Swastik Paudel
-  degree   : Bachelor of Computer Applications — Pokhara University
-  location : Nepal  🇳🇵
-  focus    : Verified Systems · Data Integrity · Governance Automation
-
-mission: >
-  Designing self-healing architectures that enforce transparency,
-  accountability, and performance across Nepal-centric platforms.
-  Engineering via verified data — no black boxes.
-
-status   : [OPEN_TO_FREELANCE] [OPEN_TO_COLLABORATION]
-```
-
----
-
-## `░░ STACK.CONFIG`
-
-<div align="center">
-
-| `LAYER` | `TOOLS` |
-|:---:|:---|
-| **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
-| **Backend** | Node.js · Python · REST · WebSockets |
-| **Data** | MongoDB · MySQL · Firebase · Redis |
-| **Infra / Tools** | Docker · Linux · Git · Nginx · PM2 |
-| **Specialty** | Cheerio · jsPDF · Gemini API · libcurl |
-
-</div>
-
-```
-SPECIAL INTERESTS ──────────────────────────────────────────────
-  ◈ OSINT Automation        ◈ Risk Modelling Engines
-  ◈ ML-Assisted Verification ◈ Self-Healing Scraper Architecture
-  ◈ Government Data Audits   ◈ Financial Portfolio Analysis
-────────────────────────────────────────────────────────────────
-```
-
----
-
-## `░░ PROJECTS.LOG`
-
-### `◈` **ShareAudit** — NEPSE Portfolio Risk Engine
-```
-STATUS   : [ACTIVE]
-PURPOSE  : Audits equity portfolios for sector concentration,
-           CGT liability forecasting, and diversification scoring.
-STACK    : Next.js · TypeScript · Tremor · MongoDB
-DOMAIN   : Financial Engineering / Nepal Stock Market
-```
-
----
-
-### `◈` **GovaAuditNP** — Government Reform Tracker
-```
-STATUS   : [ACTIVE]
-PURPOSE  : Tracks Nepal governance reforms via live OSINT pipelines
-           cross-referenced against Gemini 1.5 Pro reasoning.
-STACK    : Python · Node.js · Gemini API · Web Scraping
-DOMAIN   : Civic Tech / Policy Auditing
-```
-
----
-
-### `◈` **Ghost-Track** — Digital Footprint Auditor
-```
-STATUS   : [ACTIVE]
-PURPOSE  : Multi-threaded C utility for auditing digital surface
-           exposure across open-source intelligence vectors.
-STACK    : C · libcurl · POSIX Threads
-DOMAIN   : OSINT / Cyber Forensics
-```
-
----
 
 ## `░░ METRICS.LIVE`
 
@@ -129,8 +34,8 @@ DOMAIN   : OSINT / Cyber Forensics
 ```
 ACTIVITY LOG ───────────────────────────────────────────────────
   ◈ 300+ contributions in the last 12 months
-  ◈ Primary Languages : TypeScript · JavaScript · Python · C
-  ◈ Architecture Focus: Auditing Systems · OSINT · Verification
+  ◈ Primary Languages : TypeScript · JavaScript · Python · C · Rust  · C#
+  ◈ Architecture Focus: Auditing Systems · OSINT · Verification . AI Integration 
 ────────────────────────────────────────────────────────────────
 ```
 
