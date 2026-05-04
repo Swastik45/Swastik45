@@ -20,18 +20,7 @@
 
 </div>
 
-## `░░ METRICS.LIVE`
 
-<div align="center">
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik45&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff2d2d&text_color=cccccc&border_color=333333)
-
-![Streak](https://streak-stats.demolab.com?user=swastik45&theme=dark&background=0d0d0d&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d&border=333333)
-
-</div>
-
-```
 ACTIVITY LOG ───────────────────────────────────────────────────
   ◈ 300+ contributions in the last 12 months
   ◈ Primary Languages : TypeScript · JavaScript · Python · C · Rust  · C#
