@@ -38,7 +38,7 @@ I design and build **practical systems**, which works properly for real world
 
 ##  PROJECT HIGHLIGHTS
 
-### Government Audit System
+1. Government Audit System
 AI-powered auditing platform that:
 - Tracks government performance
 - Verifies claims using real sources
@@ -46,14 +46,14 @@ AI-powered auditing platform that:
 
 ---
 
-###  Share Analysis Platform
+2. Share Analysis Platform
 - Visualizes transaction history  
 - Integrates live market data  
 - Clean, interactive UI for insights  
 
 ---
 
-### 2D Shooting Game (Bevy Engine)
+3. 2D Shooting Game (Bevy Engine)
 - Custom player + enemy systems  
 - Animations, tiles, textures  
 - Built with performance-focused architecture  
