@@ -1,55 +1,91 @@
+
+```
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TERMINAL BOOT HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://github.com/Swastik45/Swastik45/blob/main/cyberpunk_hacker_avatar.svg" width="260" />
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  SYSTEM IDENTITY  ///  SWASTIK PAUDEL  ///  BOOT SEQUENCE INIT  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+# SWASTIK PAUDEL
 
-<img src="https://github.com/Swastik45/Swastik45/blob/main/cyberpunk_hacker_avatar.svg" width="280" alt="Swastik Paudel — Cyberpunk Avatar" />
+### Systems Builder • Developer • Problem Solver
 
-# `SWASTIK PAUDEL`
+> "I don’t just build projects. I build systems that prove themselves."
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=ff2d2d)](https://swastik45.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/◈_EMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=ff2d2d)](mailto:psamarpaudel@gmail.com)
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff2d2d)](https://github.com/swastik45)
+<br>
+
+<a href="https://swastik45.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:psamarpaudel@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/swastik45">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## `░░ CONTACT.INIT`
+##  ABOUT ME
+
+I design and build **practical systems**, which works properly for real world
+
+- Focused on real-world problem solving  
+- Love automation, audits, and data-driven tools  
+- Always optimizing, always improving  
+
+---
+
+##  PROJECT HIGHLIGHTS
+
+### Government Audit System
+AI-powered auditing platform that:
+- Tracks government performance
+- Verifies claims using real sources
+- Presents structured transparency
+
+---
+
+###  Share Analysis Platform
+- Visualizes transaction history  
+- Integrates live market data  
+- Clean, interactive UI for insights  
+
+---
+
+### 2D Shooting Game (Bevy Engine)
+- Custom player + enemy systems  
+- Animations, tiles, textures  
+- Built with performance-focused architecture  
+
+---
+
+## CORE MINDSET
+
+```
+
+BUILD → TEST → BREAK → IMPROVE → REPEAT
+
+```
+
+Never giving up. Always in that same building snd fixing mindset.
+
+---
+
+##  CONTACT
+
+-  Email: psamarpaudel@gmail.com  
+- Portfolio: swastik45.github.io/Portfolio  
+-  Status: Open for freelance & collaboration  
+
+---
 
 <div align="center">
 
-```
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│   EMAIL    →  psamarpaudel@gmail.com                     │
-│   WEB      →  swastik45.github.io/Portfolio              │
-│   STATUS   →  Open for Freelance & Collaboration          │
-│                                                           │
-│       "Build systems that prove themselves."              │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
+ Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=swastik45&color=111111&style=flat-square)
 
 </div>
-
-----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║   swastik45  ///  github.com  ///  EOF  ///  v2025.LATEST   ║
-╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=swastik45&color=ff2d2d&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
