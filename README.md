@@ -1,5 +1,5 @@
 
-```
+
 <div align="center">
 
 <img src="https://github.com/Swastik45/Swastik45/blob/main/cyberpunk_hacker_avatar.svg" width="260" />
@@ -87,5 +87,5 @@ Never giving up. Always in that same building snd fixing mindset.
 ![Visitor Count](https://komarev.com/ghpvc/?username=swastik45&color=111111&style=flat-square)
 
 </div>
-```
+
 
