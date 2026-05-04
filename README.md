@@ -119,7 +119,6 @@ DOMAIN   : OSINT / Cyber Forensics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastik45&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff2d2d&icon_color=ff2d2d&text_color=cccccc&border_color=333333&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik45&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff2d2d&text_color=cccccc&border_color=333333)
 
@@ -129,7 +128,7 @@ DOMAIN   : OSINT / Cyber Forensics
 
 ```
 ACTIVITY LOG ───────────────────────────────────────────────────
-  ◈ 291 contributions in the last 12 months
+  ◈ 300+ contributions in the last 12 months
   ◈ Primary Languages : TypeScript · JavaScript · Python · C
   ◈ Architecture Focus: Auditing Systems · OSINT · Verification
 ────────────────────────────────────────────────────────────────
