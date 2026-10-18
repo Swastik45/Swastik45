@@ -74,8 +74,8 @@ Never giving up. Always in that same building snd fixing mindset.
 
 ##  CONTACT
 
--  Email: psamarpaudel@gmail.com  
-- Portfolio: swastik45.github.io/Portfolio  
+-  Email: psamarpaudel@gmail.com
+-  
 -  Status: Open for freelance & collaboration  
 
 ---
